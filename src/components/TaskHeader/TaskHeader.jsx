@@ -3,7 +3,7 @@ import styles from "./taskHeader.module.css";
 
 const TaskHeader = () => {
   // sample values to be replaced
-  let totalTask = 0;
+  let totalTask =0;
   let unCompletedTask = 0;
 
   // NOTE: do not delete `data-testid` key value pair
